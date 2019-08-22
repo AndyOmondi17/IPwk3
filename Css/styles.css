@@ -13,9 +13,14 @@
 
 #services_section{
   color: white;
-  background: url(../images/s_image.jpg);
+  background: url(../images/s_image.jpg)no-repeat;
+  background-size:cover;
+  padding: 90px;
 
 }
 .section2{
-  text-align: center;
+  text-align: center
+}
+#about_us{
+  padding:60px;
 }
