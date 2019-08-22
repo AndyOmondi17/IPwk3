@@ -10,3 +10,12 @@
   padding: 150px;
 
 }
+
+#services_section{
+  color: white;
+  background: url(../images/s_image.jpg);
+
+}
+.section2{
+  text-align: center;
+}
