@@ -25,23 +25,23 @@
   padding:60px;
 }
 #section4{
-
   background:url(../images/c_image.jpg)no-repeat;
   height:500px;
   background-size: cover;
   text-align: center;
-  color: #fff;
+  color: white;
   border-bottom: 1px solid #fff;
   outline: none;
-
-
 }
 input[type=text]{
   background: transparent;
+  color:white;
+  width:360px;
 
 }
 textarea{
   background: transparent;
+  color:white;
 }
 .images{
   display:block;
