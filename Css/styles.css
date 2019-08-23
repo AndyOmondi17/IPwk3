@@ -25,10 +25,23 @@
   padding:60px;
 }
 #section4{
-  background:url(../images/c_image.jpg)no-repeat ;
+
+  background:url(../images/c_image.jpg)no-repeat;
   height:500px;
   background-size: cover;
   text-align: center;
+  color: #fff;
+  border-bottom: 1px solid #fff;
+  outline: none;
+
+
+}
+input[type=text]{
+  background: transparent;
+
+}
+textarea{
+  background: transparent;
 }
 .images{
   display:block;
@@ -36,9 +49,7 @@
   margin-right:auto;
   width:70%;
 }
-.form2{
 
-}
 #footer{
   height:40px;
 }
