@@ -28,11 +28,17 @@
   background:url(../images/c_image.jpg)no-repeat ;
   height:500px;
   background-size: cover;
-
+  text-align: center;
 }
 .images{
   display:block;
   margin-left:auto;
   margin-right:auto;
   width:70%;
+}
+.form2{
+
+}
+#footer{
+  height:40px;
 }
