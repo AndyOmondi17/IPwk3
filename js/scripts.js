@@ -14,16 +14,16 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   $("#DEVELOPMENT").click(function() {
-    $("#DEVELOPMENT").toggle();
-    $("#DEVELOPMENT2").toggle();
+    $("#DEVELOPMENT").hide();
+    $("#DEVELOPMENT2").show();
 
     });
 });
 
 $(document).ready(function(){
   $("#DEVELOPMENT2").click(function() {
-    $("#DEVELOPMENT").toggle();
-    $("#DEVELOPMENT2").toggle();
+    $("#DEVELOPMENT").show();
+    $("#DEVELOPMENT2").hide();
 
     });
 });
