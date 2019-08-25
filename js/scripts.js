@@ -4,10 +4,10 @@ $(document).ready(function() {
     $("#DESIGN2").show();
   });
 });
-/*$(document).ready(function(){
+$(document).ready(function(){
   $("#DESIGN2").click(function() {
-    $("#DESIGN").toggle();
-    $("#DESIGN").toggle();
+    $("#DESIGN").show();
+    $("#DESIGN2").hide();
 
   });
 });
