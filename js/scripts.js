@@ -30,16 +30,16 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   $("#PRODUCT").click(function() {
-    $("#PRODUCT").toggle();
-    $("#PRODUCT2").toggle();
+    $("#PRODUCT").hide();
+    $("#PRODUCT2").show();
 
     });
 });
 
 $(document).ready(function(){
   $("#PRODUCT2").click(function() {
-    $("#PRODUCT").toggle();
-    $("#PRODUCT2").toggle();
+    $("#PRODUCT").show();
+    $("#PRODUCT2").hide();
 
     });
 });
