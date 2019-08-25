@@ -1,17 +1,15 @@
-$(document).ready(function(){
+$(document).ready(function() {
   $("#DESIGN").click(function() {
-    $("#DESIGN").toggle();
-    $("#DESIGN2").toggle();
-
-    });
+    $("#DESIGN").hide();
+    $("#DESIGN2").show();
+  });
 });
-
-$(document).ready(function(){
+/*$(document).ready(function(){
   $("#DESIGN2").click(function() {
-    $("DESIGN").toggle();
+    $("#DESIGN").toggle();
     $("#DESIGN").toggle();
 
-    });
+  });
 });
 
 $(document).ready(function(){
@@ -49,7 +47,7 @@ $(document).ready(function(){
 /*$(document).ready(function(){
  $("form").submit(function(event){
    var name=$("input#name").val();
- alert("Hello "+name+" Thank you for contacting us");
+ alert("How are you "+name+". Thank you.");
  event.preventDefault();
  });
 });*/
