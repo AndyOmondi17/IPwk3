@@ -59,3 +59,10 @@ textarea{
 .col-md-3:hover{
   opacity: 0.5;
 }
+#project1,#project2,#project3,#project4,#project5,#project6,#project7,#project8{
+  margin-top: -80px;
+  margin-left: 80px;
+  display:none;
+  color:white;
+  font: 50px;
+}
