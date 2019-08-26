@@ -68,4 +68,5 @@ textarea{
 }
 #DESIGN2,#DEVELOPMENT2,#PRODUCT2{
   display: none;
+  font:50px;
 }
