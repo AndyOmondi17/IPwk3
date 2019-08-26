@@ -47,7 +47,7 @@ $(document).ready(function(){
 $(document).ready(function(){
  $(".form2").submit(function(event){
    var name=$(".name").val();
- alert("How are you "+name+". Thank you.");
+ alert("How are you "+name+". Thank you for contacting us.");
  event.preventDefault();
  });
 });
