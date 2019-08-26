@@ -56,3 +56,6 @@ textarea{
 #footer{
   height:40px;
 }
+.col-md-3:hover{
+  opacity: 0.5;
+}
