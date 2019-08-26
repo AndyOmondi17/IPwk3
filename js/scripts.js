@@ -44,10 +44,10 @@ $(document).ready(function(){
     });
 });
 
-/*$(document).ready(function(){
- $("form").submit(function(event){
-   var name=$("input#name").val();
+$(document).ready(function(){
+ $(".form2").submit(function(event){
+   var name=$(".name").val();
  alert("How are you "+name+". Thank you.");
  event.preventDefault();
  });
-});*/
+});
